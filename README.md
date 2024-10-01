@@ -1,3 +1,9 @@
+Nama : Dea Afni Azizah
+
+NIM : H1D022093
+
+Shift Baru: C
+
 ## SCREENSHOT
 1. login_page
    ![Lampiran Login](login_page.jpeg)
