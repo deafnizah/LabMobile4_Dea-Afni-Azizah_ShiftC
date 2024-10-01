@@ -10,7 +10,7 @@
 5. produk_form_update
    ![Lampiran Produk Update](produk_form_update.jpeg)
 6. produk_detail_delete
-   ![Lampiran Produk Delete](produk_detail+delete.jpeg)
+   ![Lampiran Produk Delete](produk_detail_delete.jpeg)
 7. produk_form_create
    ![Lampiran Produk Create](produk_form_create.jpeg)
 8. sidemenu
