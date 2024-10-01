@@ -7,11 +7,11 @@
    ![Lampiran Rgistrasi](produk_page.jpeg)
 4. produk_detail
    ![Lampiran Rgistrasi](registrasi_page.jpeg)
-5. produk_form (update)
-   ![Lampiran Rgistrasi](produk_form (update).jpeg)
-6. produk_detail (delete)
-   ![Lampiran Rgistrasi](produk_detail (delete).jpeg)
-7. produk_form (create)
-   ![Lampiran About](produk_form (create).jpeg)
+5. produk_form_update
+   ![Lampiran Rgistrasi](produk_form_update.jpeg)
+6. produk_detail_delete
+   ![Lampiran Rgistrasi](produk_detail+delete.jpeg)
+7. produk_form_create
+   ![Lampiran About](produk_form_create.jpeg)
 8. sidemenu
    ![Lampiran Sidemenu](sidemenu.jpeg)
